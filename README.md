@@ -4,8 +4,8 @@
 
 <div align="center">
   <a href="https://github.com/carolinebeatrizads">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carolinebeatrizads&show_icons=true&&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinebeatrizads&layout=compact&langs_count=7&&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carolinebeatrizads&show_icons=true&&title_color=1769aa&icon_color=1769aa&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinebeatrizads&layout=compact&langs_count=7&&title_color=1769aa&icon_color=1769aa&text_color=c9d1d9&bg_color=0d1117"/>
 </div>
 
 
@@ -26,6 +26,6 @@
   <a href = "mailto:cmp.1a.carolinebeatrizads@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1769aa&height=120&section=footer"/>
 
   
