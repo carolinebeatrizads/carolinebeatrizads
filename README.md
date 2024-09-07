@@ -1,31 +1,33 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1769aa&height=120&section=header"/>
+# Olá, eu sou Caroline Beatriz!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1769aa&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Caroline+Beatriz!;Tenho+25+anos;Sou+Técnica+em+Informática;Estou+no+3º+período+em+Sistemas+para+Internet;Bem-Vindo!+:%29)](https://git.io/typing-svg)
+## Sobre Mim
 
-<div align="center">
-  <a href="https://github.com/carolinebeatrizads">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carolinebeatrizads&show_icons=true&&title_color=1769aa&icon_color=1769aa&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinebeatrizads&layout=compact&langs_count=7&&title_color=1769aa&icon_color=1769aa&text_color=c9d1d9&bg_color=0d1117"/>
-</div>
+Sou Caroline Beatriz, tenho 25 anos e sou técnica em informática pelo IFRN. Atualmente, estou no 3º período do curso de Sistemas para Internet também pelo IFRN. 
 
+## Tecnologias que Estudo
 
-<div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
-  <img align="center" alt="Sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-</div>
+- **Linguagens de Programação:** Java, Python, JavaScript
+- **Desenvolvimento Web:** HTML, CSS
+- **Banco de Dados:** SQL
 
-###
+## Áreas de Interesse e Objetivos 🎯
 
-<div align="center">
-  <a href="https://instagram.com/beatrizandradeds" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/caroline-beatriz-31a2a825a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-  <a href = "mailto:cmp.1a.carolinebeatrizads@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+Atualmente, estou focada em:
 
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1769aa&height=120&section=footer"/>
+- **Desenvolvimento Web:** Aperfeiçoar minhas habilidades em criação de sites e aplicações web, tanto no front-end quanto no back-end.
+- **Programação:** Explorar novas linguagens e tecnologias para expandir meu conhecimento e me tornar uma desenvolvedora mais versátil.
+- **Banco de Dados:** Melhorar minha compreensão e habilidades em SQL e gerenciamento de bancos de dados para criar soluções mais robustas e eficientes.
+- **Inovação e Aprendizado Contínuo:** Manter-me atualizada com as últimas tendências e práticas da indústria de tecnologia, buscando sempre inovação e melhoria contínua.
 
-  
+Estou aberta a oportunidades de estágio, projetos colaborativos e desafios que me permitam crescer e aplicar meus conhecimentos em contextos reais. Se você tem um projeto interessante ou uma ideia para colaborar, entre em contato! 💬
+
+## Projetos
+
+No meu GitHub, você encontrará projetos que refletem minha jornada de aprendizado e desenvolvimento. Sinta-se à vontade para explorar e entrar em contato se tiver alguma dúvida ou se quiser colaborar!
+
+## Contato
+
+- **LinkedIn:** [Caroline Beatriz](https://www.linkedin.com/in/carolinebeatrizads/)
+- **Email:** carolinebeatrizads@gmail.com
+
+Obrigado por visitar meu perfil! 🚀
