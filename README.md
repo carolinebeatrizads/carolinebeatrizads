@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 
-Sou Caroline Beatriz, tenho 25 anos e sou técnica em informática pelo IFRN. Atualmente, estou no 3º período do curso de Sistemas para Internet também pelo IFRN. 
+Sou Caroline Beatriz, tenho 25 anos e sou Técnica em Informática pelo IFRN. Atualmente, estou no 3º período do curso de Sistemas para Internet também pelo IFRN. 
 
 ## Tecnologias que Estudo
 
