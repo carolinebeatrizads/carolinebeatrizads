@@ -7,7 +7,7 @@ Sou Caroline Beatriz, tenho 25 anos e sou Técnica em Informática pelo IFRN. At
 ## Tecnologias que Estudo
 
 - **Linguagens de Programação:** Java, Python, JavaScript
-- **Desenvolvimento Web:** HTML, CSS
+- **Desenvolvimento Web:** HTML, CSS, Node.js
 - **Banco de Dados:** SQL
 
 ## Áreas de Interesse e Objetivos 🎯
